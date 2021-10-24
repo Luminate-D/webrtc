@@ -1,0 +1,21 @@
+{
+  "name": "@luminate_d/webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/module.js",
+  "typings": "typings.d.ts",
+  "scripts": {
+    "build": "browserify src/module.js --s WebRTC > build/browser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luminate-D/webrtc.git"
+  },
+  "keywords": [],
+  "author": "Luminate_D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luminate-D/webrtc/issues"
+  },
+  "homepage": "https://github.com/Luminate-D/webrtc#readme"
+}
